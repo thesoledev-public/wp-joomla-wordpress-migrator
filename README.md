@@ -57,14 +57,6 @@ If you encounter issues during the migration, please check the following:
 
 For further assistance, create an issue in the plugin's support forum on the WordPress Plugin Directory page.
 
-## Contributing
-
-Contributions to the Joomla to WordPress Migrator are welcome. Please submit pull requests to the GitHub repository.
-
-## License
-
-The Joomla to WordPress Migrator plugin is open-source software licensed under the GPL v2.0.
-
 ## Disclaimer
 
 This plugin is not affiliated with or endorsed by the Joomla! Project or Open Source Matters. The Joomla! name and logo are used under a limited license granted by Open Source Matters, the trademark holder in the United States and other countries.
